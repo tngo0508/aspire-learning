@@ -52,3 +52,4 @@ C:\workdir\project-repos\aspire-test\HealthcareAspire\HealthcareAspire.PatientsA
 C:\workdir\project-repos\aspire-test\HealthcareAspire\HealthcareAspire.PatientsApi\bin\Debug\net10.0\HealthcareAspire.ServiceDefaults.pdb
 C:\workdir\project-repos\aspire-test\HealthcareAspire\HealthcareAspire.PatientsApi\obj\Debug\net10.0\HealthcareAspire.PatientsApi.csproj.AssemblyReference.cache
 C:\workdir\project-repos\aspire-test\HealthcareAspire\HealthcareAspire.PatientsApi\obj\Debug\net10.0\Healthca.67C62FBC.Up2Date
+C:\workdir\project-repos\aspire-test\HealthcareAspire\HealthcareAspire.PatientsApi\obj\Debug\net10.0\HealthcareAspire.PatientsApi.sourcelink.json

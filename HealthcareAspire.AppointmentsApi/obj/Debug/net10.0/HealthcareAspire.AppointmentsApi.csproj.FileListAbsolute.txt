@@ -52,3 +52,4 @@ C:\workdir\project-repos\aspire-test\HealthcareAspire\HealthcareAspire.Appointme
 C:\workdir\project-repos\aspire-test\HealthcareAspire\HealthcareAspire.AppointmentsApi\bin\Debug\net10.0\HealthcareAspire.ServiceDefaults.pdb
 C:\workdir\project-repos\aspire-test\HealthcareAspire\HealthcareAspire.AppointmentsApi\obj\Debug\net10.0\HealthcareAspire.AppointmentsApi.csproj.AssemblyReference.cache
 C:\workdir\project-repos\aspire-test\HealthcareAspire\HealthcareAspire.AppointmentsApi\obj\Debug\net10.0\Healthca.79804D22.Up2Date
+C:\workdir\project-repos\aspire-test\HealthcareAspire\HealthcareAspire.AppointmentsApi\obj\Debug\net10.0\HealthcareAspire.AppointmentsApi.sourcelink.json

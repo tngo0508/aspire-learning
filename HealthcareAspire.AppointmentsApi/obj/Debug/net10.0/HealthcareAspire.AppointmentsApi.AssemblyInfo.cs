@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HealthcareAspire.AppointmentsApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+83722f682bd129d2652d90f7ac7f370f8bf7c4df")]
 [assembly: System.Reflection.AssemblyProductAttribute("HealthcareAspire.AppointmentsApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HealthcareAspire.AppointmentsApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
