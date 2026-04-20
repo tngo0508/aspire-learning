@@ -1,0 +1,12 @@
+C:\workdir\project-repos\aspire-test\HealthcareAspire\HealthcareAspire.ServiceDefaults\bin\Debug\net10.0\HealthcareAspire.ServiceDefaults.deps.json
+C:\workdir\project-repos\aspire-test\HealthcareAspire\HealthcareAspire.ServiceDefaults\bin\Debug\net10.0\HealthcareAspire.ServiceDefaults.dll
+C:\workdir\project-repos\aspire-test\HealthcareAspire\HealthcareAspire.ServiceDefaults\bin\Debug\net10.0\HealthcareAspire.ServiceDefaults.pdb
+C:\workdir\project-repos\aspire-test\HealthcareAspire\HealthcareAspire.ServiceDefaults\obj\Debug\net10.0\HealthcareAspire.ServiceDefaults.csproj.AssemblyReference.cache
+C:\workdir\project-repos\aspire-test\HealthcareAspire\HealthcareAspire.ServiceDefaults\obj\Debug\net10.0\HealthcareAspire.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\workdir\project-repos\aspire-test\HealthcareAspire\HealthcareAspire.ServiceDefaults\obj\Debug\net10.0\HealthcareAspire.ServiceDefaults.AssemblyInfoInputs.cache
+C:\workdir\project-repos\aspire-test\HealthcareAspire\HealthcareAspire.ServiceDefaults\obj\Debug\net10.0\HealthcareAspire.ServiceDefaults.AssemblyInfo.cs
+C:\workdir\project-repos\aspire-test\HealthcareAspire\HealthcareAspire.ServiceDefaults\obj\Debug\net10.0\HealthcareAspire.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\workdir\project-repos\aspire-test\HealthcareAspire\HealthcareAspire.ServiceDefaults\obj\Debug\net10.0\HealthcareAspire.ServiceDefaults.dll
+C:\workdir\project-repos\aspire-test\HealthcareAspire\HealthcareAspire.ServiceDefaults\obj\Debug\net10.0\refint\HealthcareAspire.ServiceDefaults.dll
+C:\workdir\project-repos\aspire-test\HealthcareAspire\HealthcareAspire.ServiceDefaults\obj\Debug\net10.0\HealthcareAspire.ServiceDefaults.pdb
+C:\workdir\project-repos\aspire-test\HealthcareAspire\HealthcareAspire.ServiceDefaults\obj\Debug\net10.0\ref\HealthcareAspire.ServiceDefaults.dll
